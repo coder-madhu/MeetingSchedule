@@ -1,2 +1,2 @@
-# roomscheduling-
+# roomscheduling
 Conference room scheduling code
