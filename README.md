@@ -18,4 +18,4 @@
 * **Step6:** If single room found
   * Check for the closest meeting room by distance and display
   * Other wise print multi rooms that are available for the given input
-  * Even there is case also based on the data - No single or multi meeting room found
+  * Even there is no data also covered as - No single or multi meeting room found
